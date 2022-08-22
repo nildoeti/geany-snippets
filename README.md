@@ -1,4 +1,6 @@
-# geany-snippets
+# Geany Snippets
+![Geany](./img/ide-geany.jpg)
+
 Construções de strings para o auto completar da IDE Geany
 
 Para maiores informações sobre como construir snippets para o 
